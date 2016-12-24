@@ -1,0 +1,10 @@
+[ Tue Dec 20 03:02:38 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Tue Dec 20 03:03:22 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 03:03:26 2016 ]=>  Ramin [267713578] locked tag 
+ 
+[ Tue Dec 20 03:04:07 2016 ]=>  Ramin [267713578] locked bots and kicked all SuperGroup bots
+ 
+[ Tue Dec 20 03:04:14 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 

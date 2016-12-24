@@ -1,0 +1,116 @@
+[ Mon Dec 19 21:50:31 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Mon Dec 19 21:50:46 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Mon Dec 19 22:19:24 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Mon Dec 19 22:27:00 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Mon Dec 19 22:30:20 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Mon Dec 19 22:31:07 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Mon Dec 19 22:31:47 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Mon Dec 19 22:32:00 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Mon Dec 19 22:32:08 2016 ]=>  Ramin [267713578] promoted user#id11111
+ 
+[ Mon Dec 19 22:32:19 2016 ]=>  Ramin [267713578] promoted @TeleRockRed
+ 
+[ Tue Dec 20 00:28:34 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 00:28:46 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 00:28:49 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 00:34:23 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 00:58:09 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 00:58:22 2016 ]=>  Ramin [267713578] unlocked link posting
+ 
+[ Tue Dec 20 00:58:27 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 00:58:33 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 00:58:56 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 00:59:12 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 00:59:40 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Tue Dec 20 00:59:45 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 01:18:16 2016 ]=>  Ramin [267713578] used /imanager 
+ 
+[ Tue Dec 20 01:33:30 2016 ]=>  Ramin [267713578] requested group stats 
+ 
+[ Tue Dec 20 01:45:43 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:47:20 2016 ]=>  🚀🛡тєℓє™rock🛡🚀#1 [298994507] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:47:20 2016 ]=>  🚀яσcк™нєℓρєя2🚀 [264481267] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:48:18 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:48:21 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:49:46 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:49:50 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:50:19 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 01:50:23 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 02:49:43 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 02:50:32 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 02:50:36 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 02:50:44 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 02:50:59 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 02:58:32 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 02:58:35 2016 ]=>  Ramin [267713578] locked tag 
+ 
+[ Tue Dec 20 02:58:48 2016 ]=>  Ramin [267713578] locked bots and kicked all SuperGroup bots
+ 
+[ Tue Dec 20 03:21:17 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 03:22:03 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Tue Dec 20 03:22:10 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 03:22:18 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 03:25:16 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Tue Dec 20 03:25:21 2016 ]=>  Ramin [267713578] requested SuperGroup settings 
+ 
+[ Tue Dec 20 05:38:38 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue Dec 20 05:47:08 2016 ]=>  Ramin [267713578] obtained id for: [298994507]
+ 
+[ Tue Dec 20 05:47:16 2016 ]=>  Ramin [267713578] obtained id for: [298994507]
+ 
+[ Tue Dec 20 05:55:39 2016 ]=>  Ramin [267713578] requested SuperGroup ID
+ 
+[ Tue Dec 20 05:56:54 2016 ]=>  Ramin [267713578] attempted to create a new SuperGroup link
+ 
+[ Tue Dec 20 05:57:12 2016 ]=>  Ramin [267713578] requested group link [https://telegram.me/joinchat/D_T8Kj9JhU8jrRQo_GxmrQ]
+ 
+[ Tue Dec 20 08:26:08 2016 ]=>  Ramin [267713578] obtained id for: [267713578]
+ 
+[ Tue Dec 20 12:52:29 2016 ]=>  Ramin [267713578] locked join 
+ 
+[ Tue Dec 20 13:16:41 2016 ]=>  Ramin [267713578] locked bots and kicked all SuperGroup bots
+ 
+[ Wed Dec 21 23:46:42 2016 ]=>  Ramin [267713578] set SuperGroup to: mute Photo
+ 
+[ Wed Dec 21 23:46:50 2016 ]=>  Ramin [267713578] set SuperGroup to: mute Gifs
+ 

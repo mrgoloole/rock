@@ -1,0 +1,44 @@
+[ Tue Dec 20 13:34:14 2016 ]=>  Ramin [267713578] added SuperGroup
+ 
+[ Tue Dec 20 13:34:55 2016 ]=>  Ramin[267713578] set [73094826] as owner by username
+ 
+[ Tue Dec 20 13:35:07 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Tue Dec 20 13:35:17 2016 ]=>  Ramin [267713578] locked tag 
+ 
+[ Tue Dec 20 13:35:32 2016 ]=>  Ramin [267713578] locked fwd
+ 
+[ Tue Dec 20 13:52:48 2016 ]=>  śĥäĝĥäŷëĝĥ [278425335] kicked for #spam
+ 
+[ Tue Dec 20 13:58:35 2016 ]=>  Ramin [267713578] obtained id for: [278425335]
+ 
+[ Tue Dec 20 15:38:25 2016 ]=>  Ⓐ♎Aც¤Łƒa乙ℓ 🚫 https://telegram.me/joinchat/CdlE70F3cOVV7NR-TsTqwA [165233903] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Dec 20 15:39:34 2016 ]=>  Ⓐ♎Aც¤Łƒa乙ℓ🚫https://telegram.me/joinchat/CdlE70F3cOVV7NR-TsTqwA [165233903] kicked for #spam
+ 
+[ Tue Dec 20 16:11:04 2016 ]=>  ♚↯ـْْْْْےٍٍّّّدٌٍخٍٍۡۡۡ ـِٔٔ۝ےِِِّّؗؖلاٰٰشٍٍٍٍٍٍٍْٰٰٰٰٓٓـٍٍ❂ےََِِِِِ؏ٰٰٰٰمٖٖـ‌‌ۙۙۙۙ↯۞ [242846943] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Dec 20 18:51:14 2016 ]=>  😈تبریزلیام😈 [292982468] kicked for #spam
+ 
+[ Tue Dec 20 21:29:49 2016 ]=>  😎ⓜöĦ₳ⓜⓜ₳Ď😎 ҉҉҉ [290104778] requested SuperGroup ID
+ 
+[ Wed Dec 21 09:34:53 2016 ]=>  فرشاد7 [115639750] kicked for #spam
+ 
+[ Wed Dec 21 14:06:45 2016 ]=>  He.RO乙gar... @Pvvcc [252901605] kicked for #spam
+ 
+[ Wed Dec 21 17:16:16 2016 ]=>  AmirTahery @Molo88 [88769414] kicked for #spam
+ 
+[ Wed Dec 21 23:42:09 2016 ]=>  Ramin [267713578] used /owner
+ 
+[ Wed Dec 21 23:42:18 2016 ]=>  Ramin [267713578] obtained id for: [73094826]
+ 
+[ Wed Dec 21 23:47:22 2016 ]=>  Ramin [267713578] set SuperGroup to: mute Photo
+ 
+[ Wed Dec 21 23:47:28 2016 ]=>  Ramin [267713578] set SuperGroup to: mute Video
+ 
+[ Wed Dec 21 23:47:44 2016 ]=>  Ramin [267713578] locked fwd
+ 
+[ Wed Dec 21 23:47:54 2016 ]=>  Ramin [267713578] locked link posting 
+ 
+[ Wed Dec 21 23:48:05 2016 ]=>  Ramin [267713578] locked tag 
+ 
